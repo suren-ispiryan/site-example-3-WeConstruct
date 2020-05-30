@@ -1,0 +1,101 @@
+			/* navbar section */
+
+
+
+
+.header{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.brand, .active-link{
+	color: #44A6F5 !important;
+}
+.brand{
+	padding-right: 200px;
+}
+.ul{
+	font-size: 12px;
+	font-weight: bold;
+}
+.search-btn{
+	height: 30px;
+	width: 30px;
+	background-color: #44A6F5;
+	cursor: pointer;
+	display: flex !important;
+	justify-content: center !important;
+	align-items: center !important;
+	border: none;
+}
+.loop{
+	color: white;
+}
+
+
+
+
+
+			/* Carousel Section */
+
+
+
+
+
+.carousel-content{
+	height: 700px;
+}
+.slide-inside-btns{
+	height: 50px;
+	width: 150px;
+	background-color: white !important
+	border: none;
+}
+.heading{
+	font-size: 50px;
+}
+.paragraphs{
+	padding-bottom: 400px !important;
+}
+.up{
+	font-size: 16px;
+}
+.slider-container{
+	position: relative;
+}
+#settings{
+	height: 30px;
+	width: 30px;
+	background-color: black !important;
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: absolute;
+	top: 100px;
+	left: 0;
+}
+
+
+
+
+
+			/* Section 1 */
+
+
+
+
+
+
+
+
+
+
+
+
+
+			/* Hover part */
+
+
+
+
