@@ -259,6 +259,144 @@
 
 
 
+			/* section 5 */
+
+
+
+
+
+.sec5-cols{
+	text-align: center;
+}
+.sec5-blue-ones{
+	color: #44A6F5;
+}
+
+
+
+
+		
+			/* section 6 */
+
+
+
+
+.sec6names{
+	color: #44A6F5;	
+	font-weight: bold;
+}
+.bios{
+	font-size: 12px;
+}
+.sec6-icons{
+	color: grey;
+	font-size: 16px;
+	cursor: pointer;
+}
+.sec6-parent-cols{
+	padding-top: 40px;
+}
+
+
+
+
+
+			/* section 7 */
+
+
+
+
+
+.sec7-fluid{
+	margin-top: 100px;
+	background-color: #44A6F5;
+}
+.sec7cont{
+	width: 50% !important;
+}
+.sec7-carousel-body{
+	height: 300px;
+}
+.sec7-carouasel-btns{
+	height: 10px !important;
+	width: 10px !important;
+	margin: 5px !important;
+}
+	/* carousel content */
+.sec7-cols{
+	text-align: center;
+	color: white;
+}
+.main-pic{
+	height: 80px;
+	width: 80px;
+	border-radius: 100%;
+}
+.sec7-bio{
+	font-size: 12px;
+	opacity: 0.5;
+}
+.sec7-description{
+	text-align: center;
+	font-size: 12px;
+}
+
+
+
+
+
+
+		
+			/* Section 8 */
+
+
+
+
+
+.section8{
+	padding-top: 10px;
+}
+.sec8-logos{
+	display: flex !important;
+	justify-content: center !important;
+	align-items: center !important;
+}
+
+
+
+
+
+
+		
+			/* Section 9 */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
