@@ -1,3 +1,19 @@
+	
+			/* Globar */
+
+
+i{
+	cursor: pointer;
+}
+p{
+	font-family: Times New Roman;
+}
+button{
+	outline: none !important;
+	border: none !important;
+}
+
+
 			/* Go Up Btn*/
 
 
@@ -15,7 +31,7 @@
 	opacity: 0.9;
 	display: none;
 }
-#go-up-button > a{
+#go{
 	font-size: 15px;
 	display: flex;
 	justify-content: center;
@@ -560,6 +576,14 @@
 
 			/* Hover part */
 
+
+
+
+
+.sec4-ul > li > div:hover{
+	background-color: #44A6F5;
+	font-weight: bold; 
+}
 
 
 
