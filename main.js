@@ -22,8 +22,7 @@ goUpBtn.addEventListener("click", function(){
 
 
 
-
-			// Section 2 mini meny
+			// Section 2 mini menu
 
 
 
@@ -113,14 +112,23 @@ saas.addEventListener("click", function(){
 
 
 
+				// Section 4 menu btns
 
 
 
 
+var list = document.getElementsByClassName("sec4list");
 
 
+for (var i = 0; i < list.length; i++) {
+	list[i].addEventListener("click", function(){		
+		for (var j = 0; j < list.length; j++) {
+			list[j].style.backgroundColor = "silver";
+		}
 
-
+		this.style.backgroundColor = "#44A6F5";
+	});
+}
 
 
 
