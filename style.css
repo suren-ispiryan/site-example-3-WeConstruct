@@ -6,7 +6,7 @@ i{
 	cursor: pointer;
 }
 p{
-	font-family: Times New Roman;
+	font-family: Arial;
 }
 button{
 	outline: none !important;
@@ -15,7 +15,6 @@ button{
 
 
 			/* Go Up Btn*/
-
 
 
 #go-up-button{
@@ -80,6 +79,10 @@ button{
 	color: white;
 }
 
+.pb-5{
+	font-size: 20px;
+}
+
 
 
 
@@ -96,12 +99,17 @@ button{
 
 .slide-inside-btns{
 	height: 50px;
-	width: 150px;
+	width: 200px;
 	background-color: white !important
 	border: none;
+	box-shadow: 0px 5px 8px black !important;
 }
 .heading{
 	font-size: 50px;
+	            text-shadow: -1px 1px 0 #000, 
+                          1px 1px 0 #000, 
+                         1px -1px 0 #000, 
+                        -1px -1px 0 #000; 
 }
 .paragraphs{
 	padding-bottom: 400px !important;
